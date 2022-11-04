@@ -16,8 +16,12 @@
       "test": "gulp test"
     },
     "files": [
+      ".travis.yml",
+      "grunt.js",
+      "modernizr.js",
       "readme.md",
       "media/",
+      "test/",
       "feature-detects/"
     ],
     "keywords": [
